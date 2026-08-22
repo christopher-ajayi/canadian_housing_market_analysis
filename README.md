@@ -19,7 +19,7 @@ The project follows an **ETL (Extract, Transform, Load)** workflow.
 - **Bank of Canada** — Policy interest rate data.
 
 * Data was collected from Canadian housing, income, population, and monetary-policy datasets. 
-* Data was cleaned, standardized, validated, merged, and transformed into growth and supply-demand indicators using Python and Pandas. Source: Statcan
+* Data was cleaned, standardized, validated, merged, and transformed into growth and supply-demand indicators using Python and Pandas.
 * The transformed datasets were prepared for analysis, visualization, and the final Power BI dashboard.
 
 The analytical dataset contains **841 observations across 11 regions**:
