@@ -236,10 +236,10 @@ The analysis also has the following limitations:
 The project consists of:
 
 - **Python analysis notebook** — data preparation, exploratory analysis, calculations, visualizations, correlations, and findings
-- **Power BI dashboard** — interactive presentation of the major housing-market indicators and findings
 
 
 ## Future Improvements
+- Indept provincial level analysis
 - Power BI: The Power BI dashboard will be developed from the finalized analytical results in the notebook rather than introducing a separate analytical framework.
 
 ## Author
