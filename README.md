@@ -14,7 +14,11 @@ The main comparative analysis covers **2010–2024**, the common period for whic
 
 The project follows an **ETL (Extract, Transform, Load)** workflow.
 
-* Data was collected from Canadian housing, income, population, and monetary-policy datasets.
+### Data Sources
+- **Statistics Canada** — NHPI, population, and income data.
+- **Bank of Canada** — Policy interest rate data.
+
+* Data was collected from Canadian housing, income, population, and monetary-policy datasets. 
 * Data was cleaned, standardized, validated, merged, and transformed into growth and supply-demand indicators using Python and Pandas.
 * The transformed datasets were prepared for analysis, visualization, and the final Power BI dashboard.
 
