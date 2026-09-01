@@ -56,7 +56,7 @@ Derived measures used in the analysis include:
 - `housing_supply_growth_pct`
 - `supply_demand_growth_gap_pct`
 
-The original dataset contains historical observations beyond the main study period, but differences in source coverage mean that the **2010–2024 period** is used for the primary cross-indicator analysis.
+The original dataset contains historical observations beyond the main study period. A few Long term trend analyses was carried out from 1990-2024, while the  primary cross-indicator analysis covers **2010–2024 period**.
 
 ## Analytical Approach
 
@@ -182,6 +182,10 @@ The notebook includes the following major visual analyses:
 
 The 2020–2024 comparison highlights the divergence between housing-price growth, population growth, and housing-supply growth during the most recent period.
 
+## Powerbi Visualization
+- [1990-2024](powerbi/chma_powerbi_1990-2024.pdf)
+- [2010-2024](powerbi/chma_powerbi_2010_2024.pdf)
+
 ## Main Findings
 
 The analysis identifies several important patterns:
@@ -240,7 +244,7 @@ The project consists of:
 
 ## Future Improvements
 - Indept provincial level analysis
-- Power BI: The Power BI dashboard will be developed from the finalized analytical results in the notebook rather than introducing a separate analytical framework.
+
 
 ## Author
 Christoher Ajayi
