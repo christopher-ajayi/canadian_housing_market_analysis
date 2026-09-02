@@ -15,7 +15,7 @@ The main comparative analysis covers **2010–2024**, the common period for whic
 The project follows an **ETL (Extract, Transform, Load)** workflow.
 
 ### Data Sources
-- **Statistics Canada** — NHPI, population, and income data.
+- **Statistics Canada** — NHPI, population, Housing Starts and income data.
 - **Bank of Canada** — Policy interest rate data.
 
 * Data was collected from Canadian housing, income, population, and monetary-policy datasets. 
